@@ -1,0 +1,24 @@
+{
+  "name": "stirner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.1",
+    "@typescript-eslint/parser": "^4.6.1",
+    "@umijs/fabric": "^2.3.1",
+    "eslint": "^7.12.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.2",
+    "umi": "^3.2.26"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
